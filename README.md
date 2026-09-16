@@ -136,23 +136,23 @@ MedRAG-Insight/
 
 ### 1. Sign In
 
-![MedRAG Insight Sign In](screenshots/Screenshot 2026-09-16 000059.png)
+![MedRAG Insight Sign In](screenshots/01-signin.png)
 
 ### 2. Medical Intelligence Dashboard
 
-![MedRAG Insight Dashboard](screenshots/Screenshot 2026-09-16 000132.png)
+![MedRAG Insight Dashboard](screenshots/02-dashboard.png)
 
 ### 3. Medical Report Upload & Analysis
 
-![Medical Report Analysis](screenshots/Screenshot 2026-09-16 000213.png)
+![Medical Report Analysis](screenshots/03-new-analysis.png)
 
 ### 4. AI-Powered Analysis Results
 
-![Analysis Results](screenshots/Screenshot 2026-09-16 000251.png)
+![Analysis Results](screenshots/04-analysis-results.png)
 
 ### 5. Analysis History
 
-[Analysis History](screenshots/Screenshot 2026-09-16 000310.png)
+[Analysis History](screenshots/05-history.png)
 
 ---
 
